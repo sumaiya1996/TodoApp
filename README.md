@@ -12,7 +12,7 @@ User can successfully add and remove items(Tasks) from the todo list
 User can tap a todo item in the list and bring up an edit screen for the todo item and then have any changes to the text reflected in the todo list.
 User can persist todo items and retrieve them properly on app restart
 
-<img src='D:\LICEcap\demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://drive.google.com/file/d/0B60kScmeA-bGUlFmeXhoYk5OV1U/view?usp=sharing
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
